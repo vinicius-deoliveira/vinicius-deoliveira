@@ -2,6 +2,9 @@
 
 :computer: Technical Consultant
 
+## Find me here
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Oliveira-blue)](https://www.linkedin.com/in/pirodriguees/)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
