@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.rodriguesrdo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.rodriguesrdo@gmail.com)](mailto:vinicius.rodriguesrdo@gmail.com)
 
 🔭 I’m currently working with Linux/Windows Servers, Zabbix, Grafana, Ansible and Python.  
-:computer: I’m currently learning about Infrastructure as Code and DevOps.
-:video_game: I Love games 
+:computer: I’m currently learning about Infrastructure as Code and DevOps.       
+:video_game: I Love games.
 
 See you! :)
 
