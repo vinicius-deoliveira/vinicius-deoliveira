@@ -3,8 +3,8 @@
 :computer: Technical Consultant
 
 ## Find me here
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Oliveira-blue)](https://www.linkedin.com/in/pirodriguees/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-ViniciusOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in/pirodriguees/)
+[![Gmail Badge](https://img.shields.io/badge/-vinicius.rodriguesrdo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.rodriguesrdo@gmail.com)](mailto:vinicius.rodriguesrdo@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
