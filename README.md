@@ -8,7 +8,7 @@
 
 🔭 I’m currently working with Linux/Windows Servers, Zabbix, Grafana, Ansible and Python.  
 :computer: I’m currently learning about Infrastructure as Code and DevOps.       
-:four_leaf_clover: Music, Games, Sports.
+:four_leaf_clover: I love Music, Games and Sports.
 
 See you! :)
 
