@@ -19,8 +19,8 @@ My name is Vinicius, I’m 20 years old. I am a Computer Science student, curren
 <img align="left" width="26px" src="https://jbasoftware.com/assets/img/software/grafana.png" />
 <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTgvm2rpK_6mpDdpnwb0eCeSaRl-Ds43sg7A&usqp=CAU" />
 <img align="left" width="26px" src="https://w7.pngwing.com/pngs/545/964/png-transparent-windows-multipoint-server-windows-server-2012-microsoft-computer-servers-microsoft-computer-logo-windows-thumbnail.png" />
-<img align="left" width="26px" src="https://img2.gratispng.com/20180808/rki/kisspng-uncomplicated-firewall-computer-network-computer-s-ccoc-firewall-app-subscription-5b6acd5c910024.1728855915337260445939.jpg" />
-<img align="left" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaxamillion.sh%2Fblog%2FNew%2520Adventures%2520Ansible%2520Edition%2F&psig=AOvVaw1sgFJdrSaGLHK4C-9Rkcdl&ust=1599231509401000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPikgOOfzesCFQAAAAAdAAAAABAV" />
+<img align="left" width="26px" src="https://images.squarespace-cdn.com/content/v1/5ca253a17980b335c44f3daa/1568735632902-A1OOR7NPC1I4PTFJFJ1Q/ke17ZwdGBToddI8pDm48kB4nORySMPwEDaddUNIRril7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kIgOItA57f7eM7niA0O81lgXuLX1MPdBB-Rs9f43NN6FR7yIUiN6Q06uB7WhRZPiw/firewall.png" />
+<img align="left" width="26px" src="https://mpng.subpng.com/20180413/oyw/kisspng-ansible-g2-technology-group-red-hat-organization-c-magic-circle-5ad07018670321.713204611523609624422.jpg" />
 
 
 
