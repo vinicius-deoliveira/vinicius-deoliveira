@@ -8,7 +8,7 @@ My name is Vinicius, I’m 20 years old. I am a Computer Science student, curren
 
 ![gitstats](https://github-readme-stats-one-eta.vercel.app/api?username=piholiveira&show_icons=true&hide_border=true)
 
-📚 Check my [Personal Blog](https://piholiveira.github.io/) 
+📚 Check my [Personal Blog](https://piholiveira.github.io/)           
 :earth_americas: Living in Limeira, Brazil      
 :four_leaf_clover: I love Music, Games and Sports.
 
