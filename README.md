@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinicius, I’m 20 years old. I am a Computer Science student, currently working as a Technical Consultant :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
+My name is Vinicius, I’m 20 years old. I am a Computer Science student, currently working with Infrastructure :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
 
 ### Find me here :D
 [![Linkedin Badge](https://img.shields.io/badge/-ViniciusOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in/pirodriguees/)
