@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Vinicius, I’m 22 years old. I am graduated in Computer Science, currently working with Infrastructure/DevOps :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
+My name is Vinicius, I’m 23 years old. I am graduated in Computer Science, currently working with Infrastructure/DevOps :computer:, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
 
 ### Find me here :D
 [![Linkedin Badge](https://img.shields.io/badge/-ViniciusOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pirodriguees)](https://www.linkedin.com/in/pirodriguees/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.rodriguesrdo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.rodriguesrdo@gmail.com)](mailto:vinicius.rodriguesrdo@gmail.com)
 
-📚 Check my [Personal Blog](https://piholiveira.github.io/)           
+📚 Check my [Personal Blog](https://vinicius-deoliveira.github.io/)           
 :earth_americas: Living in Limeira, Brazil      
 :four_leaf_clover: I love Music, Games and Sports.
 
